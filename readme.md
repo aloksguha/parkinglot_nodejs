@@ -1,3 +1,4 @@
+[![Build Status](https://www.travis-ci.com/aloksguha/parkinglot_nodejs.svg?token=J8okxKGDXGAov6yy4yo7&branch=main)](https://www.travis-ci.com/aloksguha/parkinglot_nodejs)
 # Parking Lot Command Line Utility
 This parking lot command line utility accepts a file as an argument and processes the contents of the file 
 (basically on a line by line basis). Each line is basically a command to be executed with certain parameters.
